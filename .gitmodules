@@ -1,10 +1,10 @@
-[submodule "libplist"]
+
+[submodule "deps/libplist"]
 	path = deps/libplist
 	url = git@github.com:libimobiledevice/libplist.git
-[submodule "libusbmuxd"]
+[submodule "deps/libusbmuxd"]
 	path = deps/libusbmuxd
 	url = git@github.com:libimobiledevice/libusbmuxd.git
-[submodule "openssl"]
+[submodule "deps/openssl"]
 	path = deps/openssl
 	url = git@github.com:openssl/openssl.git
-  branch = OpenSSL_1_1_1-stable
