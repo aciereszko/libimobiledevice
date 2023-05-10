@@ -9,3 +9,6 @@
 	path = deps/openssl
 	url = git@github.com:openssl/openssl.git
 
+[submodule "deps/libimobiledevice-glue"]
+	path = deps/libimobiledevice-glue
+	url = git@github.com:libimobiledevice/libimobiledevice-glue.git
